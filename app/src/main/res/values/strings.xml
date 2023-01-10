@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Guiché</string>
+    <string name="app_title">Guiché de Apoio ao Cidadão</string>
+    <string name="tx_subtitle">De Apoio ao Cidadão</string>
+    <string name="tx_no_connection">
+        <b>Conexão perdida...</b>
+        \nPor favor, verifique sua internet.
+    </string>
+    <string name="tx_update">Tentar novamente</string>
+    <string name="tx_submit">Submeter</string>
+    <string name="tx_consult">Consultar</string>
+    <string name="app_site">www.guichegpn.gov.ao</string>
+    <string name="app_telefone">+244 928 850 304</string>
+    <string name="app_email">info@guichegpn.gov.ao</string>
+    <string name="choose_email_client">Escolha uma aplicação de email</string>
+</resources>
